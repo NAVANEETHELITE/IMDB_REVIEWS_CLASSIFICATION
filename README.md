@@ -5,5 +5,5 @@
 - Dataset link : https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 <p align="center">
-  <img src="https://github.com/NAVANEETHELITE/IMDB_Reviews_Classification/blob/main/MOVIE%20REVIEW%20CLASSIFICATION/img1.png" width="85%" title="WordCloud" alt="Simple Visualization">
+  <img src="https://github.com/NAVANEETHELITE/IMDB_Reviews_Classification/blob/main/MOVIE%20REVIEW%20CLASSIFICATION/img1.png" width="50%" title="WordCloud" alt="Simple Visualization">
 </p>
